@@ -142,7 +142,7 @@ const Hero = () => {
       {/* Image Section with Zoom on Hover */}
       <div className="mt-6 md:mt-9 transform transition duration-500 hover:scale-105">
         <img 
-          src={assets.Img8} 
+          src={assets.img8} 
           alt="Preview of new clothing collection" 
           className="w-full max-w-md rounded-xl shadow-lg"
         />
